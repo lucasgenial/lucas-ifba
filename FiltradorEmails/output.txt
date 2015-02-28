@@ -1,0 +1,6 @@
+<1 2-TI LICOMP-Integrado> diogo@ifba.edu.br
+<1 2 4 6-LIQUIM TA TB-Subsequente Superior Integrado> adriana@ifba.edu.br
+<4 6 7-TI LICOMP-Superior Integrado> kenia@ifba.edu.br
+<2 3 4-TI LICOMP-Superior Integrado> george@ifba.edu.br
+<1 3 4-TI TB LICOMP-Subsequente Superior Integrado> douglas@ifba.edu.br
+<8-LINTER-Superior> eurico@ifba.edu.br
